@@ -58,9 +58,9 @@ You can either:
 - Set them in your terminal:
 
 ```bash
-export L2_ADDRESS=your_wallet_identity_address
-export SECONDARY_KEY=your_secondary_key
-export API_SECRET=your_api_secret
+export identity=your_wallet_identity_address
+export private_key=your_secondary_key
+export api_secret=your_api_secret
 ```
 
 ## 🔁 Callback URL Setup
